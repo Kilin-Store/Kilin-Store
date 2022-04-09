@@ -1,6 +1,6 @@
 # My Wibu
 
-<a href="https://ibb.co/C1GLBt6"><img src="https://i.ibb.co/8KZkMBb/1649276617162.jpg" alt="1649276617162" border="0"></a>
+<a href="https://ibb.co/6PRkCtt"><img src="https://i.ibb.co/R0pqw66/FB-IMG-16491255453449178.jpg" alt="16491255453449178" border="0"></a>
 <center>
 
 
@@ -23,4 +23,4 @@
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Mikasa Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
