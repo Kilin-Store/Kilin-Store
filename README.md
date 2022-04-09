@@ -12,6 +12,16 @@
 </div>
 -->
 
+# MY SOCIAL MEDIA :
+
+* Mau Order Scrip Premium Hubunggin 👇
+* No Cs 👇
+
+<a href="https://wa.me/+6282151858918?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/saya.ganteng01"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> 
+
+
+
 # Static
 
 <br/>
